@@ -19,3 +19,4 @@
 - 3º) Criar uma nova rede no Metamesk "DIONet";
 - 4º) Conectar uma carteira no ambiente do Ganache para o Metamask importanto uma carteira pela chave privada;
 - 5º) No remix criar o arquivo "DIOCoin.sol"
+- 6º) Compilar, realizar o deploy e realizar os testes com a rede simulanda no "Ganache" conectada coma o gerenciador de carteira "Metamesk" 
