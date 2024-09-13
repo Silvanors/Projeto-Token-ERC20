@@ -1,11 +1,10 @@
 # Projecto Token ERC20 utilizando a ferramenta REMIX
 
 ## Este projeto foi feito um Token ERC-20 utilizando as ferramentas:
-- Solidity;
-- Truffle;
-- Ganache;
-- Remix IDE;
-- Metamask;
+- Linguagem Solidity;
+- Ganache <https://archive.trufflesuite.com/ganache/>;
+- Remix IDE <https://remix.ethereum.org/>;
+- Metamask (estenção para instalar no navegador);
 
 ## Etapas:
 - Implementar o token ERC-20
