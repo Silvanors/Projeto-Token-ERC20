@@ -12,7 +12,7 @@
 - Receber e enviar transações
 
 ## Passos:
-1. Instalar a estenção Metamesk;
+1.Instalar a estenção Metamesk;
 - 2º) Abrir o Ganache e abrir uma nova rede "Project-DIO";
 - 3º) Criar uma nova rede no Metamesk "DIONet";
 - 4º) Conectar uma carteira no ambiente do Ganache para o Metamask importanto uma carteira pela chave privada;
