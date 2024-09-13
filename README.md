@@ -1,6 +1,6 @@
-REMIX DEFAULT WORKSPACE
+# Projecto Token ERC20 utilizando a ferramenta REMIX
 
-# Este projeto foi feito um Token ERC-20 utilizando as ferramentas:
+## Este projeto foi feito um Token ERC-20 utilizando as ferramentas:
 - plataforma remix;
 - Solidity;
 - Truffle;
